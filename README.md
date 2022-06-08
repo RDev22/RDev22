@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RDev22, welcome to my Github profile! 
 - 👀 I’m interested in studying
 - 💻 I’m currently learning Ruby, JavaScript, HTML, CSS and more...
-- 📫 How to reach me <a href="mailto:renandantas.sp@gmail.com</a>
+- 📫 How to reach me <a href="mailto:renandantas.sp@gmail.com"> renandantas.sp@gmail.com </a>
 
 
   <li>skills:</li>
