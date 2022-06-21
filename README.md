@@ -21,6 +21,9 @@
 
 </p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RDev22&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RDev22&layout=compact&langs_count=16&theme=dark"/)
 
 
 
