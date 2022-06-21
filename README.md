@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RDev22, welcome to my Github profile! 
-- 👀 I’m interested in studying
-- 💻 I’m currently learning Ruby, JavaScript, HTML, CSS and more...
-- 📫 How to reach me <a href="mailto:renandantas.sp@gmail.com"> renandantas.sp@gmail.com </a>
+- 💻 Full-Stack Web Developer
+- 📫 Contact: <a href="mailto:renandantas.sp@gmail.com"> renandantas.sp@gmail.com </a>
 
 
   <li>skills:</li>
@@ -21,9 +20,7 @@
 
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RDev22&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RDev22&layout=compact&langs_count=16&theme=dark"/)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RDev22&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RDev22&layout=compact&langs_count=7&theme=tokyonight)
 
 
 
