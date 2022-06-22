@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @RDev22, welcome to my Github profile! 
+<h1>Hi, I’m Renan Dantas, welcome to my Github profile!👋</h1>
+
 - 💻 Full-Stack Web Developer
 - 📫 Contact: <a href="mailto:renandantas.sp@gmail.com"> renandantas.sp@gmail.com </a>
 
-
-  <li>skills:</li>
+<h2>
+  <li>skills:</li><br>
+  
 <p align="left" dir="auto">
 <a href="https://www.ruby-lang.org/en/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" style="max-width: 100%;"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" style="max-width: 100%;"></a>
