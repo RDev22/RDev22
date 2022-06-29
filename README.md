@@ -1,3 +1,9 @@
+<p align="left" dir="auto">
+   <a target="_blank" rel"noopener noreferrer"      href="https://camo.githubusercontent.com/16a7524cc857111264d509348ebb3cb73b3d11658786ea96c24270a97f2edee0/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616b656d692d686972756d61266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"> <img    src="https://camo.githubusercontent.com/16a7524cc857111264d509348ebb3cb73b3d11658786ea96c24270a97f2edee0/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616b656d692d686972756d61266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="RDev22" 
+data-canonical-src="https://komarev.com/ghpvc/?username=akemi-hiruma&label=Profile%20views&color=0e75b6&style=flat" style="max-width: 100%;">
+</a>
+</p>
+
 <h1>Hi, I’m Renan Dantas, welcome to my Github profile!👋</h1>
 
 - 💻 Full-Stack Web Developer
